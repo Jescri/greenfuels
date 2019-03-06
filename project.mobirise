@@ -179,7 +179,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
@@ -273,10 +273,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:olv@greenfuelspr.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:olv@greenfuelspr.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:olv@greenfuelspr.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"mailto:olv@greenfuelspr.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MAS INFO</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -307,7 +307,7 @@
           },
           "title": "COMO SE HACE<br>GREEN FUELS",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MAS INFORMACION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:olv@greenfuelspr.com\" data-toolbar=\"-mbrBtnMove\">MAS INFORMACION</a> ",
           "_tags": [
             "Theme"
           ],
@@ -370,7 +370,7 @@
           },
           "title": "AHORA <br>ESTA<br>DISPONIBLE",
           "text": "La energía limpia de Green Fuels estará disponible através de todo Puerto Rico<br>para flotas de camiones de empresas y autobuses.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT SALE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"mailto:olv@greenfuelspr.com\" data-toolbar=\"-mbrBtnMove\">CONTACT SALE</a>",
           "_tags": [
             "Theme"
           ],
@@ -424,7 +424,7 @@
             "paddingBottom": 1,
             "bgColor": "#7ced88"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">BAJAR HOJA DE INFORMACION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"mailto:olv@greenfuelspr.com\" data-toolbar=\"-mbrBtnMove\">BAJAR HOJA DE INFORMACION</a> ",
           "_tags": [
             "Theme"
           ],
@@ -502,7 +502,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">MAS INFORMACION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"mailto:olv@greenfuelspr.com\" data-toolbar=\"-mbrBtnMove\">MAS INFORMACION</a> ",
           "_tags": [
             "Theme"
           ],
