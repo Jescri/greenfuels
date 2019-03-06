@@ -148,7 +148,7 @@
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/estacion-drawing-for-website-w-text-2000x1600.jpg",
