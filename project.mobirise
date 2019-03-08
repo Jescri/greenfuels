@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#56c5f4",
         "#a07e49",
         "#52ea2c",
         "#7ced88",
         "#68edf2",
         "#68d3f2",
-        "#53b44a",
-        "#084c8e"
+        "#53b44a"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -287,15 +287,15 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ilustracion-como-se-hace-el-green-fuels-1-2000x1299.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#68d3f2",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -318,6 +318,19 @@
               "color": "#084c8e"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#56c5f4"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n"
         },
         {
           "_inherit": "msg-box5",
